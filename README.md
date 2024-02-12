@@ -1,6 +1,6 @@
 ### Hello my name is Jadiefication
 
-#### My weird interests:
+#### My interests:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=roboto&color=%blue&size=18&vCenter=true&height=24&lines=/Software+Development/;/Server+building/;/PC+building/)
 
