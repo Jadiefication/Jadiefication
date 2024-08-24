@@ -5,6 +5,7 @@
 
 <img src="https://myreadme.vercel.app/api/embed/Jadiefication?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+
 ## My discord account(for now suspended):
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/475671622087344128)](https://discord.com/users/475671622087344128)
