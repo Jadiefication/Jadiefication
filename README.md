@@ -1,12 +1,14 @@
-### Hello my name is Jadiefication
+## Hello my name is Jadiefication
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+#### I'm a starting java/web developer from the czech republic.
+##### I really like coding, mainly doing random shit that isn't needed.
 
-## Contact me on:
+<img src="https://myreadme.vercel.app/api/embed/Jadiefication?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
+## My discord account(for now suspended):
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/475671622087344128)](https://discord.com/users/475671622087344128)
-
-### Credits to @dalictn for his README.md
 
 <!---
 Jadiefication/Jadiefication is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
