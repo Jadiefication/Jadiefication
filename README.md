@@ -1,14 +1,13 @@
-### Hello my name is Jadiefication
+## Hello my name is Jadiefication
 
-#### My interests:
+#### I'm a starting java/web developer from the czech republic.
+##### I really like coding, mainly doing random shit that isn't needed.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=roboto&color=%blue&size=18&vCenter=true&height=24&lines=/Software+Development/;/Server+building/;/PC+building/)
+<img src="https://myreadme.vercel.app/api/embed/Jadiefication?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-## Contact me on:
+## My discord account(for now suspended):
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/475671622087344128)](https://discord.com/users/475671622087344128)
-
-### Credits to @dalictn for his README.md
 
 <!---
 Jadiefication/Jadiefication is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
