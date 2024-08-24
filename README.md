@@ -1,8 +1,6 @@
 ### Hello my name is Jadiefication
 
-#### My interests:
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=roboto&color=%blue&size=18&vCenter=true&height=24&lines=/Software+Development/;/Server+building/;/PC+building/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## Contact me on:
 
