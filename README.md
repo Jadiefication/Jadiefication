@@ -3,8 +3,6 @@
 #### I'm a starting java/web developer from the czech republic.
 ##### I really like coding, mainly doing random shit that isn't needed.
 
-<img src="https://myreadme.vercel.app/api/embed/Jadiefication?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 
 ## My discord account(for now suspended):
 
