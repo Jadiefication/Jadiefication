@@ -3,7 +3,6 @@
 💻 Currently Learning: Minestom 🚀
 
 ⚙️ Working on:
-    ⚔️ BladeBallMC — A unique Minecraft server project
     🌐 Void Framework — A modular web framework with plans for submodules like ORM and more
 
 🎨 Interests: Minecraft server dev, pixel art 🖌️, and creative world-building 🌍
