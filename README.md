@@ -1,12 +1,12 @@
 # 💫About Me :
 👋 Hi, I'm Jadiefication!
-💻 Currently Learning: Minestom 🚀
+💻 Currently Learning: FullStack Kotlin 🚀
 
 ⚙️ Working on:
     🌐 Void Framework — A modular web framework with plans for submodules like ORM and more
 
 🎨 Interests: Minecraft server dev, pixel art 🖌️, and creative world-building 🌍
-📚 Languages & Tools: Java ☕ | Velocity Proxy 🌐 | Arch Linux 🐧
+📚 Languages & Tools: Kotlin ☕
 🎮 Favorite Game: Minecraft 🧱 (of course!)
 📫 Reach me on GitHub: @Jadiefication
 
