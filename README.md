@@ -1,14 +1,24 @@
 # 💫About Me :
-👋 Hi, I'm Jadiefication!
-💻 Currently Learning: FullStack Kotlin 🚀
+👋 Hi, I'm **Jadiefication**!
+**"Just a guy who hates libraries, so he makes his own."**
 
-⚙️ Working on:
-    🌐 Void Framework — A modular web framework with plans for submodules like ORM and more
+I am a systems-focused developer dedicated to understanding the **"zero hidden magic"** of software. My work centers on building high-performance bridges between high-level **Kotlin DSLs** and low-level **Rust execution cores**, specializing in manual memory management and custom architecture design.
 
-🎨 Interests: Minecraft server dev, pixel art 🖌️, and creative world-building 🌍
-📚 Languages & Tools: Kotlin ☕
-🎮 Favorite Game: Minecraft 🧱 (of course!)
-📫 Reach me on GitHub: @Jadiefication
+⚙️ **Current Focus:** 
+*   **Systems Architecture:** Designing custom Instruction Set Architectures (ISAs) and virtual machines (like **Uzyi**).
+*   **Interoperability:** Mastering the multi-language flow between the JVM and native code via **JNI**.
+*   **Scientific Simulation:** Modeling continuous state systems and spatial diffusion using raw math engines.
+
+🚀 **Planned Projects:**
+*   **Mnajki:** A custom operating system built from the ground up.
+*   **Haje 1.0:** Completing my foundational linear algebra library in Rust [4].
+*   **HPC Language:** Designing a custom language specifically for high-performance computing.
+*   **Project Creator CLI:** A "no-magic" scaffolding tool for optimized project setups.
+
+🎨 **Interests:** Systems engineering, Minecraft server development, pixel art 🖌️, and exploring how software physically looks at the register level. <br>
+📚 **Languages & Tools:** Kotlin ☕, Rust 🦀, and ARMv8 Assembly. <br>
+🎮 **Favorite Game:** Minecraft 🧱 <br>
+📫 **Reach me on GitHub:** @Jadiefication <br>
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/tjakwxFqYC) 
