@@ -11,7 +11,7 @@ I am a systems-focused developer dedicated to understanding the **"zero hidden m
 
 🚀 **Planned Projects:**
 *   **Mnajki:** A custom operating system built from the ground up.
-*   **Haje 1.0:** Completing my foundational linear algebra library in Rust [4].
+*   **Haje 1.0:** Completing my foundational linear algebra library in Rust.
 *   **HPC Language:** Designing a custom language specifically for high-performance computing.
 *   **Project Creator CLI:** A "no-magic" scaffolding tool for optimized project setups.
 
